@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fahad1192
+- 👋 Hi, I’m Fahad Munir
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Product Management and Data Science
 - 💞️ I’m looking to collaborate on Data Science project
