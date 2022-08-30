@@ -1,15 +1,15 @@
-:sparkles: About Me :sparkles:
+:sparkles: # About Me :sparkles:
 - 👋 Hi, I’m Fahad Munir
 - 👀 I’m transiotioning to Data Science
 - 🌱 I’m currently learning SQL, Python, Statistics and ML
 - 💞️ I’m looking for a entry-level Data relevant role
 
-## Core Competencies :bulb:
+# Core Competencies :bulb:
 
 - Tools: SQL, Python, Tableau
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
-## Currently :books:
+# Currently :books:
 
 - Brushing up SQL skills, python data cleaning and wrangling skills through projects
 - Learning ML and trying to implement with small projects
