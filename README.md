@@ -1,8 +1,8 @@
 ##### :sparkles: About Me :sparkles:
-👋 Hi, I’m Fahad Munir
-👀 I’m transitioning to Data Science
-🌱 I’m currently learning SQL, Python, Statistics and ML
-💞️ I’m looking for a entry-level Data relevant role
+- 👋 Hi, I’m Fahad Munir
+- 👀 I’m transitioning to Data Science
+- 🌱 I’m currently learning SQL, Python, Statistics and ML
+- 💞️ I’m looking for a entry-level Data relevant role
 
 ##### :bulb: Core Competencies :bulb:
 
