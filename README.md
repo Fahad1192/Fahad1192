@@ -13,7 +13,7 @@
 
 - Brushing up my SQL skills, python data cleaning and wrangling skills, learning ML
 - Learning ML and trying to implement with small projects
-- Course: ML Specialization from DeepLearning.ai, World Quant University Applied Data Science Lab, Intro to Statistics from Stanford
+- Course: ML Specialization from DeepLearning.ai, World Quant University Applied Data Science Lab, ML Zoomcamp
 
 ##### Connect with me :handshake:
 - [LinkedIn](https:https://www.linkedin.com/in/fahad-munir-2404865b/)
