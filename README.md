@@ -11,9 +11,8 @@
 
 ##### :books: Currently :books:
 
-- Brushing up my SQL skills, python data cleaning and wrangling skills, learning ML
-- Learning ML and trying to implement with small projects
-- Course: ML Specialization from DeepLearning.ai, World Quant University Applied Data Science Lab, ML Zoomcamp
+- Working at Pathao as a Data Analyst for past 3 years.
+- Building dashboards and running analysis.
 
 ##### Connect with me :handshake:
 - [LinkedIn](https:https://www.linkedin.com/in/fahad-munir-2404865b/)
